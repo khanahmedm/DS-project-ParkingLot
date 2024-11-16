@@ -13,22 +13,22 @@
 3. Run one cell at a time, instead of running all the cells
 4. Note that the internal links in the table of content are not working
 5. There are 5 different interactive dashboard consists of 9 visualizations:
-	- #### <ins>**Monthly Usage Analysis**</ins>
+	- #### <ins>Monthly Usage Analysis</ins>
 	![Image](./images/MonthlyUsageAnalysis.JPG)
 	---
-	- #### **Usage Analysis by Lot, Access Group, and Hour of Day**
+	- #### <ins>Usage Analysis by Lot, Access Group, and Hour of Day</ins>
 	![Image](./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG)
 	---
-	- #### **Access Group Usage Analysis**
+	- #### Access Group Usage Analysis</ins>
 	![Image](./images/Analysis-AccessGroup-HourOfDay-EntriesCount.JPG)
 	![Image](./images/Analysis-AccessGroup-HourOfDay-ExitCount.JPG)
 	---
-	- #### **Lot Number Usage Analysis**
+	- #### <ins>Lot Number Usage Analysis</ins>
 	![Image](./images/Analysis-Lot-HourOfDay-EntriesCount.JPG)
 	![Image](./images/Analysis-Lot-HourOfDay-ExitCount.JPG)
 	---
 	![Image](./images/Analysis-Lot-Group-EntriesCount.JPG)
 	![Image](./images/Analysis-Lot-Group-ExitCount.JPG)
 	---
-	- #### **Forecast for November and December 2024**
+	- #### <ins>Forecast for November and December 2024</ins>
 	![Image](./images/Forecast-Lot-NovDec2024.JPG)
