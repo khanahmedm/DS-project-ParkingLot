@@ -10,11 +10,18 @@
 	- pip install scikit-learn
 3. Run one cell at a time, instead of running all the cells
 4. Note that the internal links in the table of content are not working
-5. There are 5 different interactive visualizations:
+5. There are 5 different interactive dashboard consists of 9 visualizations:
 	- #### Monthly Usage Analysis
 	![Image](./images/MonthlyUsageAnalysis.JPG)
-	- Usage Analysis by Lot, Access Group, and Hour of Day
+	- #### Usage Analysis by Lot, Access Group, and Hour of Day
 	![Image](./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG)
-	- Access Group Usage Analysis
-	- Lot Number Usage Analysis
-	- Forecast for November and December 2024
+	- #### Access Group Usage Analysis
+	![Image](./images/Analysis-AccessGroup-HourOfDay-EntriesCount.JPG)
+	![Image](./images/Analysis-AccessGroup-HourOfDay-ExitCount.JPG)
+	- #### Lot Number Usage Analysis
+	![Image](./images/Analysis-Lot-HourOfDay-EntriesCount.JPG)
+	![Image](./images/Analysis-Lot-HourOfDay-ExitCount.JPG)
+	![Image](./images/Analysis-Lot-Group-EntriesCount.JPG)
+	![Image](./images/Analysis-Lot-Group-ExitCount.JPG)
+	- #### Forecast for November and December 2024
+	![Image](./images/Forecast-Lot-NovDec2024.JPG)
