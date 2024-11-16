@@ -15,7 +15,7 @@
 5. There are 5 different interactive dashboard consists of 9 visualizations:
 	- #### <ins>Monthly Usage Analysis</ins>
 	![Image](./images/MonthlyUsageAnalysis.JPG)
-	<img src= "./images/MonthlyUsageAnalysis.JPG" style="border: 2px solid grey;">
+	<kbd><img src= "./images/MonthlyUsageAnalysis.JPG" style="border: 2px solid grey;"></kbd>
 	---
 	- #### <ins>Usage Analysis by Lot, Access Group, and Hour of Day</ins>
 	![Image](./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG)
