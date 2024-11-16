@@ -11,9 +11,10 @@
 3. Run one cell at a time, instead of running all the cells
 4. Note that the internal links in the table of content are not working
 5. There are 5 different interactive visualizations:
-	- Monthly Usage Analysis
+	- #### Monthly Usage Analysis
 	![Image](./images/MonthlyUsageAnalysis.JPG)
 	- Usage Analysis by Lot, Access Group, and Hour of Day
+	![Image](./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG)
 	- Access Group Usage Analysis
 	- Lot Number Usage Analysis
 	- Forecast for November and December 2024
