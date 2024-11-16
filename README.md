@@ -18,7 +18,7 @@
 	<kbd><img src= "./images/MonthlyUsageAnalysis.JPG" style="border: 2px solid grey;"></kbd>
 	---
 	- #### <ins>Usage Analysis by Lot, Access Group, and Hour of Day</ins>
-	![Image](./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG)
+	
 	<img src= "./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG" alt="UsageAnalysis-LotAccess-Group-HourOfDay" style="border: 2px solid grey;">
 
 	---
