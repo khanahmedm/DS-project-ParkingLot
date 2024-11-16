@@ -14,24 +14,26 @@
 4. Note that the internal links in the table of content are not working
 5. There are 5 different interactive dashboard consists of 9 visualizations:
 	- #### <ins>Monthly Usage Analysis</ins>
-	![Image](./images/MonthlyUsageAnalysis.JPG)
-	<kbd><img src= "./images/MonthlyUsageAnalysis.JPG" style="border: 2px solid grey;"></kbd>
+	<kbd>![Image](./images/MonthlyUsageAnalysis.JPG)</kbd>
+	
 	---
 	- #### <ins>Usage Analysis by Lot, Access Group, and Hour of Day</ins>
 	<kbd>![Image](./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG)</kbd>
-	<img src= "./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG" alt="UsageAnalysis-LotAccess-Group-HourOfDay" style="border: 2px solid grey;">
 
 	---
 	- #### <ins>Access Group Usage Analysis</ins>
-	![Image](./images/Analysis-AccessGroup-HourOfDay-EntriesCount.JPG)
-	![Image](./images/Analysis-AccessGroup-HourOfDay-ExitCount.JPG)
+	<kbd>![Image](./images/Analysis-AccessGroup-HourOfDay-EntriesCount.JPG)</kbd>
+	<kbd>![Image](./images/Analysis-AccessGroup-HourOfDay-ExitCount.JPG)</kbd>
 	---
+	
 	- #### <ins>Lot Number Usage Analysis</ins>
-	![Image](./images/Analysis-Lot-HourOfDay-EntriesCount.JPG)
-	![Image](./images/Analysis-Lot-HourOfDay-ExitCount.JPG)
+	<kbd>![Image](./images/Analysis-Lot-HourOfDay-EntriesCount.JPG)</kbd>
+	<kbd>![Image](./images/Analysis-Lot-HourOfDay-ExitCount.JPG)</kbd>
 	---
-	![Image](./images/Analysis-Lot-Group-EntriesCount.JPG)
-	![Image](./images/Analysis-Lot-Group-ExitCount.JPG)
+	
+	<kbd>![Image](./images/Analysis-Lot-Group-EntriesCount.JPG)</kbd>
+	<kbd>![Image](./images/Analysis-Lot-Group-ExitCount.JPG)</kbd>
 	---
-	- #### <ins>Forecast for November and December 2024</ins>
-	![Image](./images/Forecast-Lot-NovDec2024.JPG)
+	
+	- #### <ins>Forecast for November and December 2024</ins></kbd>
+	<kbd>![Image](./images/Forecast-Lot-NovDec2024.JPG)
