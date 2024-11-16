@@ -18,8 +18,8 @@
 	<kbd><img src= "./images/MonthlyUsageAnalysis.JPG" style="border: 2px solid grey;"></kbd>
 	---
 	- #### <ins>Usage Analysis by Lot, Access Group, and Hour of Day</ins>
-	
-	<img src= "./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG" alt="UsageAnalysis-LotAccess-Group-HourOfDay" style="border: 2px solid grey;">
+	![Image](./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG)</kbd>
+	<kbd><img src= "./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG" alt="UsageAnalysis-LotAccess-Group-HourOfDay" style="border: 2px solid grey;">
 
 	---
 	- #### <ins>Access Group Usage Analysis</ins>
