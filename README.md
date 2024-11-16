@@ -11,7 +11,7 @@
 	pip install scikit-learn
 	```
 3. Run one cell at a time, instead of running all the cells
-4. Note that the internal links in the table of content are not working
+4. Note that the internal links in the table of content are not working due to a possible [bug](https://github.com/jupyter/notebook/discussions/7418#diag)
 5. There are 5 different interactive dashboard consists of 9 visualizations:
 	- #### <ins>Monthly Usage Analysis</ins>
 	<kbd>![Image](./images/MonthlyUsageAnalysis.JPG)</kbd>
