@@ -36,4 +36,5 @@
 	---
 	
 	- #### <ins>Forecast for November and December 2024</ins></kbd>
+	**Linear regression** model is used for forecasting the data for November and December 2024.
 	<kbd>![Image](./images/Forecast-Lot-NovDec2024.JPG)
