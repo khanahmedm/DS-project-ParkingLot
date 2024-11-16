@@ -19,6 +19,8 @@
 	---
 	- #### <ins>Usage Analysis by Lot, Access Group, and Hour of Day</ins>
 	![Image](./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG)
+	<img src= "./images/UsageAnalysis-LotAccess-Group-HourOfDay.JPG" alt="UsageAnalysis-LotAccess-Group-HourOfDay" style="border: 2px solid grey;">
+
 	---
 	- #### <ins>Access Group Usage Analysis</ins>
 	![Image](./images/Analysis-AccessGroup-HourOfDay-EntriesCount.JPG)
