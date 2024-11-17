@@ -28,15 +28,18 @@ This notebook utilizes parking lot usage data from the University of Iowa's Park
 	- #### <ins>Access Group Usage Analysis</ins>
 	<kbd>![Image](./images/Analysis-AccessGroup-HourOfDay-EntriesCount.JPG)</kbd>
 	<kbd>![Image](./images/Analysis-AccessGroup-HourOfDay-ExitCount.JPG)</kbd>
+	
 	---
 	
 	- #### <ins>Lot Number Usage Analysis</ins>
 	<kbd>![Image](./images/Analysis-Lot-HourOfDay-EntriesCount.JPG)</kbd>
 	<kbd>![Image](./images/Analysis-Lot-HourOfDay-ExitCount.JPG)</kbd>
+	
 	---
 	
 	<kbd>![Image](./images/Analysis-Lot-Group-EntriesCount.JPG)</kbd>
 	<kbd>![Image](./images/Analysis-Lot-Group-ExitCount.JPG)</kbd>
+	
 	---
 	
 	- #### <ins>Forecast for November and December 2024</ins></kbd>
