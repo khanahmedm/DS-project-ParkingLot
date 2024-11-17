@@ -1,6 +1,6 @@
 # DS-project-ParkingLot
 
-This notebook utilizes parking lot usage data from the University of Iowa's Parking and Transportation Department, covering the past four years. It features various interactive visualizations designed for analysis and pattern identification. Additionally, it includes a visualization of forecasted data. Note that this notebook does not include *Exploratory Data Analysis (EDA)*.
+This notebook utilizes parking lot usage data from the University of Iowa's Parking and Transportation Department, covering the past four years. It features various interactive visualizations designed for analysis and pattern identification. Additionally, it includes a visualization of forecasted data. Please note that this notebook does not include *Exploratory Data Analysis (EDA)* or storytelling based on the available data.
 
 ### Instructions:
 1. Download the notebook in the same folder where the following two data files are present:
